@@ -1,25 +1,26 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Petro Univer",
+  "name": "Petro Univer - Hiệu suất không giới hạn",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "LogoFavicon.jpg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "Logo.jpg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "Logo.jpg",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "./?utm_source=a2hs",
   "display": "standalone",
   "theme_color": "#000000",
+  "scope": "/maps/",
   "background_color": "#ffffff"
 }
